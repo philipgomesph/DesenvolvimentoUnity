@@ -1,0 +1,7 @@
+CheckPoint
+Primeiro Jogo Aula 3 - https://www.youtube.com/watch?v=VpbYo-mamFs&list=PLw7F758vrsxzAtgzaWwURkzC117UHkudQ&index=3
+
+Anotações Unity
+
+RigidBody
+- Transforma em objeto real (Sofre fisica)
