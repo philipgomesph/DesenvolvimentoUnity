@@ -5,3 +5,25 @@ Anotações Unity
 
 RigidBody
 - Transforma em objeto real (Sofre fisica)
+
+
+RESUMO
+
+- Aula 1 4 = Inicio
+- Aula 5 = Primeiras moviementaçoes 
+- Aula 6 = Boas praticas Unity
+
+
+
+
+
+
+
+
+--------
+
+ORDEM
+    git init
+    git add .
+    git commit -am "{mensagem do commit}
+    git push
